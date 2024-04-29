@@ -3,7 +3,10 @@
 ###### This is an `<h6>` header, which is the smallest
 
 Add image
-https://octodex.github.com/images/yaktocat.png
-
-
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Example
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
